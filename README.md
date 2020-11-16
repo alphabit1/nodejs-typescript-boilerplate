@@ -4,7 +4,7 @@ Basic boilerplate for Node.js development with TypeScript, ESLint, Prettier, Air
 
 [<img alt="npm" src="https://img.shields.io/david/alphabit1/nodejs-typescript-boilerplate.svg?style=flat-square">](https://david-dm.org/alphabit1/nodejs-typescript-boilerplate)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9ed338bb16264cd1954c18512a54cb4c)](https://www.codacy.com/gh/alphabit1/nodejs-typescript-boilerplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alphabit1/nodejs-typescript-boilerplate&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2d619cf29d4b45a18774ae1ca0d77303)](https://www.codacy.com/gh/alphabit1/nodejs-typescript-boilerplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alphabit1/nodejs-typescript-boilerplate&amp;utm_campaign=Badge_Grade)
 
 [![Build Status](https://travis-ci.com/alphabit1/nodejs-typescript-boilerplate.svg?branch=main)](https://travis-ci.com/alphabit1/nodejs-typescript-boilerplate)
 
